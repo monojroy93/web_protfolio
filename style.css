@@ -21,6 +21,7 @@ h1{
 
 .half-width p{
     text-align: justify;
+    color: dimgrey;
 }
 .half-width{
     width: 30%;
@@ -95,6 +96,7 @@ section{
 }
 .footer p{
     margin: 20px;
+    color: dimgrey;
 }
 
 .contect{
